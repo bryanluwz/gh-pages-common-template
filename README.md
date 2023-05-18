@@ -43,3 +43,5 @@ or
 `npm run deploy -- -m "commit message"`
 
 ## stonks
+
+Remember to change package.json homepage default, name and description
