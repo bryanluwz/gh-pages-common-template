@@ -16,6 +16,8 @@ _`--force` if error_
 
 `git submodule update --init --recursive` to init submodule
 
+`git submodule update --recursive --remote` to update submodule
+
 ## Open your package.json file and add the following fields at the top level
 
 > "homepage": "https://\<username>.github.io/\<repository-name>",
